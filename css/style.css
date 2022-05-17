@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.some-style {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 4rem 3rem;
+    padding: 4rem 2rem;
+    max-width: 700px;
+    background-color: #e7e1e1;
+    border-radius: 25px;
+    box-shadow: 10px 10px 30px 2px;
+    line-height: 1.7rem;
+}
+
+#span-user-name-complete {
+    font-size: 1.3rem;
+    color: rgb(109, 45, 45);
+}
+
+#span-user-password {
+    text-decoration: underline;
+    font-style: italic;
+}
